@@ -1,0 +1,53 @@
+.intro {
+    float: left;
+    width: 50%;
+    margin-top: 4%;
+}
+
+#hello {
+    font-family: Ubuntu, sans-serif;
+    font-size: 70px;
+    text-align: start;
+    margin-left: 20%;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+
+#tag {
+    font-family: Source Sans Pro, sans-serif;
+    font-size: 30px;
+    text-align: start;
+    font-weight: lighter;
+    margin-left: 20%;
+    /*color: #4E3629;*/
+}
+
+.faq {
+    float: right;
+    width: 100%;
+    margin-bottom: 3%;
+    margin-top: 2%;
+}
+
+.home-page-icon {
+    float: right;
+    width: 50%;
+    margin-top: 5%;
+}
+
+#faq-text {
+    font-family: Ubuntu, sans-serif;
+    font-size: 35px;
+    text-align: center;
+    margin-bottom: auto;
+    color: #4E3629;
+}
+
+#foot {
+    background-color: #4E3629;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-family: Ubuntu, sans-serif;
+}
